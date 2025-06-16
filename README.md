@@ -23,6 +23,12 @@ TrafficLIght-Optimizer/
 │   └── final.ino       # ESP32-CAM firmware for image capture and HTTP server
 ```
 
+## Project image
+
+![Project Setup](image/1.png)
+
+
+
 ## Setup
 
 ### 1. ESP32-CAM
